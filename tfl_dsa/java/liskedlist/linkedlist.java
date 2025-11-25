@@ -45,6 +45,10 @@ class operation{
 
 
     }
+
+    void search(int data){
+        
+    }
 }
 
 class linkedlist{
